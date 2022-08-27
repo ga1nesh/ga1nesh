@@ -8,3 +8,5 @@
 ga1nesh/ga1nesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![image](https://user-images.githubusercontent.com/102746340/187017998-ee5196a7-e97c-471a-a74a-96e4cb4eab02.png)
+![33](https://user-images.githubusercontent.com/102746340/187018031-fb12f4d7-5f55-4fc2-9e28-62f718e2169c.png)
